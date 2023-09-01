@@ -17,4 +17,18 @@
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
     android:title="@string/category_misc_title" >
 
+
+     <com.android.settings.custom.preference.GlobalSettingSwitchPreference
+        android:key="pie_animation_style"
+        android:title="@string/pie_animation_style_title"
+        android:summary="@string/pie_animation_style_summary"
+        android:defaultValue="false" />
+
+     <com.android.settings.custom.preference.GlobalSettingSwitchPreference
+       android:key="allow_signature_fake"
+       android:title="@string/allow_signature_fake"
+       android:summary="@string/allow_signature_fake_summary"
+       android:defaultValue="false" />
+
 </PreferenceScreen>
+

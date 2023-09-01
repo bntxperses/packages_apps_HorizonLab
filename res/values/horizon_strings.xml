@@ -40,4 +40,8 @@
     <!-- Category: Theme-->
     <string name="category_theme_title">Themes</string>
 
+    <!-- Android P animation style -->
+    <string name="pie_animation_style_title">Android P animation style</string>
+    <string name="pie_animation_style_summary">Enable Android P \"Default\" animations</string>
+
 </resources> 

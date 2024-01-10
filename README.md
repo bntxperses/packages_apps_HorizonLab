@@ -1,5 +1,6 @@
 <p align="center">
-![Lab](https://github.com/HorizonDroid-13/packages_apps_HorizonLab/assets/151366950/eb0894ff-e6b5-43fb-8be7-5ba66ad25916)
+<img src="https://github.com/ryzenforce990/ryzenforce990/blob/main/Lab.png" />
+
 </p>
 
 HorizonLabs:
